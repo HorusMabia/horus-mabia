@@ -1,0 +1,23 @@
+body {
+  display: grid;
+  background-color: #282c34;
+  margin: 0rem;
+  color: white;
+}
+
+.navbar {
+  background-color: aqua;
+  text-align: center;
+  vertical-align: 50%;
+  border: 3px solid red;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.navbar-brand {
+  background-color: beige;
+  width: 100%;
+}
